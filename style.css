@@ -1,0 +1,77 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f8edeb;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #CB9173;
+  font-weight: 800;
+}
+
+h2 {
+  font-size: 30px;
+  color : #320A28;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'EB Garamond', serif;
+}
+
+a {
+  text-decoration: none;
+  color: #CB9173;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+  padding: 10px;
+}
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+#profile-img {
+  border-radius: 50%;
+}
+
+#lewagon {
+  color: white;
+  background-color:#E4A0BD;
+  padding: 10px;
+  border-radius: 20px;
+  display: inline-block;;
+}
+
+.card-white {
+  border-radius: 4px;
+  margin: 20px 0px;
+  background-color: white;
+  text-align: center;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+#followme {
+  padding: 22px;
+}
+
+.fab {
+  font-size: 50px;
+}
+
+
